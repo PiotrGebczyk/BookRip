@@ -71,8 +71,7 @@ To use the script, you'll need the `bookid` of the book you want to download. Yo
 
 ## Example
 
-To download a book with the ID `12345`, run:
-
+Downloading a book with the ID `12345` and name `Textbook123abc`
 ```bash
 ./BookRip.sh 12345
 
@@ -80,48 +79,6 @@ You are downloading: "Textbook123abc"  :)
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  247k  100  247k    0     0   574k      0 --:--:-- --:--:-- --:--:--  577k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  112k  100  112k    0     0   283k      0 --:--:-- --:--:-- --:--:--  284k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  131k  100  131k    0     0   331k      0 --:--:-- --:--:-- --:--:--  334k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  131k  100  131k    0     0   362k      0 --:--:-- --:--:-- --:--:--  364k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  119k  100  119k    0     0   368k      0 --:--:-- --:--:-- --:--:--  371k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  141k  100  141k    0     0   447k      0 --:--:-- --:--:-- --:--:--  449k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  161k  100  161k    0     0   475k      0 --:--:-- --:--:-- --:--:--  479k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  159k  100  159k    0     0   470k      0 --:--:-- --:--:-- --:--:--  472k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  118k  100  118k    0     0   360k      0 --:--:-- --:--:-- --:--:--  362k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  106k  100  106k    0     0   300k      0 --:--:-- --:--:-- --:--:--  303k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100 98786  100 98786    0     0   300k      0 --:--:-- --:--:-- --:--:--  302k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  120k  100  120k    0     0   361k      0 --:--:-- --:--:-- --:--:--  364k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  233k  100  233k    0     0   781k      0 --:--:-- --:--:-- --:--:--  789k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  255k  100  255k    0     0   704k      0 --:--:-- --:--:-- --:--:--  709k
-  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
-                                 Dload  Upload   Total   Spent    Left  Speed
-100  275k  100  275k    0     0   603k      0 --:--:-- --:--:-- --:--:--  604k
   % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
                                  Dload  Upload   Total   Spent    Left  Speed
 100  212k  100  212k    0     0   632k      0 --:--:-- --:--:-- --:--:--  636k
