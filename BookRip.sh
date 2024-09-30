@@ -32,7 +32,3 @@ clean () {
 downloadbook
 merge
 clean
-#todo
-#add searching throught titles
-#merging into pdf
- 
