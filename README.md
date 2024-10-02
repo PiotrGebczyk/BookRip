@@ -45,9 +45,9 @@ To use the script, you'll need the `bookid` of the book you want to download. Yo
 1. Open Google.
 2. Type the following search prompt:
    ```bash
-   site:flipbook.apps.gwo.pl [Nazwa książki]
+   [Title] site:flipbook.apps.gwo.pl
    ```
-   Replace `[Nazwa książki]` with the name of the book you're looking for.
+   Replace `[Title]` with the name of the book you're looking for.
 
 3. The search results will show you a link to the book. Extract the `bookid` from the URL:
    ```
